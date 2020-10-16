@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		94DA2F0324EDB7400013B973 /* Monster */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Monster; sourceTree = BUILT_PRODUCTS_DIR; };
 		94DA2F0624EDB7400013B973 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		94DA2F0D24EDB7A00013B973 /* monster.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = monster.h; sourceTree = "<group>"; };
+		94DA2F0E24EDB7D50013B973 /* hillGaint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hillGaint.h; sourceTree = "<group>"; };
+		94DA2F0F24EDB7EA0013B973 /* dragon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dragon.h; sourceTree = "<group>"; };
+		94DA2F1024EDBCC10013B973 /* file.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = file.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				94DA2F0624EDB7400013B973 /* main.cpp */,
+				94DA2F0D24EDB7A00013B973 /* monster.h */,
+				94DA2F0E24EDB7D50013B973 /* hillGaint.h */,
+				94DA2F0F24EDB7EA0013B973 /* dragon.h */,
+				94DA2F1024EDBCC10013B973 /* file.h */,
 			);
 			path = Monster;
 			sourceTree = "<group>";
